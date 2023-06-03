@@ -7,7 +7,6 @@
     "dev": "vite",
     "build": "tsc && vite build && yarn build:components && next build",
     "build:components": "ts-node --esm --project ./tsconfig.scripts.json ./scripts/build-components.ts",
-    "seed:tasks": "ts-node --esm --project ./tsconfig.scripts.json ./app/examples/tasks/data/seed.ts",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
