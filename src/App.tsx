@@ -36,8 +36,8 @@ function App() {
 
       <Card className={cn("w-[480px]", "min-w-[480]")}>
         <CardHeader>
-          <CardTitle>Notifications</CardTitle>
-          <CardDescription>You have 3 unread messages.</CardDescription>
+          <CardTitle>Template</CardTitle>
+          <CardDescription>Minimalist Design and Basic Components.</CardDescription>
         </CardHeader>
         <CardContent className="grid gap-4">
           <div className=" flex items-center space-x-4 rounded-md border p-4">
