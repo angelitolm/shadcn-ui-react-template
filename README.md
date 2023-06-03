@@ -1,4 +1,4 @@
-# shadcn-ui-react-template
+# Shadcn UI React Template
 A ReactJS template for building apps with Radix UI and Tailwind CSS.
 
 ## Usage
@@ -11,6 +11,9 @@ A ReactJS template for building apps with Radix UI and Tailwind CSS.
 ```
 ```bash
   yarn install
+```
+```bash
+  yarn run dev
 ```
 
 ## Features
